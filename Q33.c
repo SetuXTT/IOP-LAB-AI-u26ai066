@@ -13,7 +13,6 @@ int main()
     printf("Enter number 1: ");
     scanf("%d", &num);
 
-    // Assume the first number is both max and min
     max = num;
     min = num;
 
